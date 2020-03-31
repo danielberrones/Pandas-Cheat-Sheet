@@ -1,6 +1,11 @@
 ################################
 ## Tool to analyze data sets. ## 
 ################################
+## Desiged by Daniel Berrones
+## Email: daniel.a.berrones@gmail.com
+################################
+
+
 
 import pandas as pd
 
