@@ -1,2 +1,3 @@
-# Pandas-Assistant
-Tool to analyze datasets using Pandas module in Python
+# Pandas-Cheatsheet
+
+Helpful pandas tips and tricks
