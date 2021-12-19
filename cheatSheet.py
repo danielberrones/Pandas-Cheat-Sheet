@@ -23,7 +23,6 @@ print(df.columns)
        #'previous', 'poutcome', 'y'],
       #dtype='object')
 
-
 print("df['job'].value_counts()")
 print(df['job'].value_counts())
 #blue-collar      9732
